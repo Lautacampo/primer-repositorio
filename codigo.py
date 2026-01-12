@@ -1,4 +1,4 @@
-nombre="Lautaro"
+nombre="Lautaro Jesus"
 apellido="Campo"
 
 saludo="Hola mi nombre es "+ nombre +" mi apellido es "+apellido
